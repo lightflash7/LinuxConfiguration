@@ -1,0 +1,10 @@
+127.0.0.1	localhost
+::1		localhost ip6-localhost ip6-loopback
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+
+127.0.1.1	LingZhou_pi
+
+#********************加上两行加快git clone速度****************************
+151.101.1.194 github.global-ssl.fastly.net
+140.82.113.3 github.com
